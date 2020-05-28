@@ -55,3 +55,9 @@ func evaluate(_ expression: ArithmeticExpression) -> Int {
 
 print(evaluate(sum))
 print(evaluate(product))
+
+enum CarBrand: CaseIterable {
+    case BMW
+    case TOFAS
+}
+

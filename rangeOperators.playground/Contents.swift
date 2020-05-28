@@ -31,5 +31,4 @@ for item in fruits[..<2] {
     print(item)
 }
 
-
 // for item in fruits[...2] working like foreach in JAVA
